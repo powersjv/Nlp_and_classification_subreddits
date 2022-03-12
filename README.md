@@ -1,4 +1,4 @@
-# Real Estate vs Home Improvement: Identify Financial Need
+# Real Estate vs Home Improvement: Identify Financial Need Based on Subreddit Posts
 ---
 
 ![https://www.educba.com/loan-vs-mortgage/](https://github.com/powersjv/Nlp_and_classification_subreddits/blob/d7997aace0216a01c6ce00c58f4816393de82064/images/Loan-vs-Mortgage.jpeg)
