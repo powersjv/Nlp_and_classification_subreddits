@@ -1,9 +1,9 @@
 # Real Estate vs Home Improvement: Identify Financial Need
 ---
 
-![https://www.educba.com/loan-vs-mortgage/](https://git.generalassemb.ly/powersjv/project_3/blob/3c22007a7d056a9b89e779dcea1dc88d32454d40/images/Loan-vs-Mortgage.jpeg)
+![https://www.educba.com/loan-vs-mortgage/](https://github.com/powersjv/Nlp_and_classification_subreddits/blob/d7997aace0216a01c6ce00c58f4816393de82064/images/Loan-vs-Mortgage.jpeg)
 
-This project utilizes Neural Language Processing (NLP) and various classification models in order to determine which subreddit text belongs to, Home Improvement or Real Estate Investing, in order to determine the type of financing that would need to be secured, a personal loan or a home mortgage.
+This project utilizes Neural Language Processing (NLP) and various classification models in order to determine which subreddit text belongs to, r/HomeImprovement or r/realestateinvesting. The implications of this project can be used to determine the type of financing that would need to be secured, a personal loan or a home mortgage, based on language used to explain the desired result.
 
 ### Table of Contents
 
